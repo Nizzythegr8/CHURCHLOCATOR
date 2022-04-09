@@ -30,6 +30,14 @@
     nav  {
          display: none;
     }
-
+.maintext h1 { 
+         span: 6;
+         font-size:100%;
+         font-weight: 400%;
+   }
+.maintext img  {
+         height: 30px;
+}
+    
 
 }
